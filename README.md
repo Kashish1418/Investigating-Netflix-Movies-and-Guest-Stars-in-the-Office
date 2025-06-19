@@ -14,5 +14,10 @@ Working for a production company that specializes in nostalgic styles. You want 
 1. What was the most frequent movie duration in the 1990s? Save an approximate answer as an integer called duration.
 2. A movie is considered short if it's less than 90 minutes. Count the number of short action movies released in the 1990s and save the integer as short_movie_count.
 
+**Solution:**
+1. The most frequent movie duration in the 1990s is 94 minutes.
+2. On Netflix, there are only 7 short action movies with duration less than 90 minutes. They were premiered in the 1990s
 
-
+## **Investigating Netflix Movies and Guest in the Office Project link**
+Performed Exploratory Data Analysis (EDA)
+Link:- (https://colab.research.google.com/drive/1qtVADVoXunk7Alw1kI2ym5ZwpxVnapYe?usp=sharing)
