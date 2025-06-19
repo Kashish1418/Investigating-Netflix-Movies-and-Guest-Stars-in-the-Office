@@ -7,4 +7,4 @@ I worked on a data analysis project using Netflix data, focusing specifically on
 ## Netflix Dataset (CSV file)
 As part of a fictional production company interested in nostalgic content, I analyzed the dataset netflix_data.csv to uncover trends and patterns in 90s cinema. This included examining key metrics such as release year, genres, and other insights to better understand that iconic decade of movies. I also explored the dataset beyond the initial scope to gain deeper insights into the entertainment industry.
 
-
+link: (https://colab.research.google.com/drive/1qtVADVoXunk7Alw1kI2ym5ZwpxVnapYe?usp=sharing)
