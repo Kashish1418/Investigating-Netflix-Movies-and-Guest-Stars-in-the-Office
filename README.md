@@ -7,4 +7,12 @@ I worked on a data analysis project using Netflix data, focusing specifically on
 ## Netflix Dataset (CSV file)
 As part of a fictional production company interested in nostalgic content, I analyzed the dataset netflix_data.csv to uncover trends and patterns in 90s cinema. This included examining key metrics such as release year, genres, and other insights to better understand that iconic decade of movies. I also explored the dataset beyond the initial scope to gain deeper insights into the entertainment industry.
 
-link: (https://colab.research.google.com/drive/1qtVADVoXunk7Alw1kI2ym5ZwpxVnapYe?usp=sharing)
+# ** Objective:**
+Working for a production company that specializes in nostalgic styles. You want to do some research on movies released in the 1990's. You'll delve into Netflix data and perform exploratory data analysis to better understand this awesome movie decade!
+
+**Finding the Solution of the following question, by using Exploratory Data Analysis:**
+1. What was the most frequent movie duration in the 1990s? Save an approximate answer as an integer called duration.
+2. A movie is considered short if it's less than 90 minutes. Count the number of short action movies released in the 1990s and save the integer as short_movie_count.
+
+
+
