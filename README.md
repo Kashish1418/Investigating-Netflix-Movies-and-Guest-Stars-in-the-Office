@@ -25,6 +25,10 @@ As part of a fictional production company interested in nostalgic content, I ana
 - Visualized the genre distribution of 90s movies.
 - Investigated appearances of famous guest stars in The Office using data slicing and grouping.
 
+## 🖼️ Visualizations & Insights
+Here are some key visualizations from the project that helped drive insights:
+
+
 ## 📌 Highlights
 - Deep Exploratory Data Analysis (EDA)
 - Real-world dataset processing
