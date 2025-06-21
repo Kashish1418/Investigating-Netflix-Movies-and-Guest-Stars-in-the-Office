@@ -27,6 +27,9 @@ As part of a fictional production company interested in nostalgic content, I ana
 
 ## 🖼️ Visualizations & Insights
 Here are some key visualizations from the project that helped drive insights:
+Guest stars in the Office: 
+![image](https://github.com/Kashish1418/Investigating-Netflix-Movies-and-Guest-Stars-in-the-Office/commit/9057c7f70df8518ddcce7ac14a096c929f5dc4fd)
+
 
 
 ## 📌 Highlights
