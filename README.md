@@ -32,11 +32,7 @@ Here are some key visualizations from the project that helped drive insights:
 - Distribution Movies released in the 1990s:
 ![image](https://github.com/Kashish1418/Investigating-Netflix-Movies-and-Guest-Stars-in-the-Office/commit/9057c7f70df8518ddcce7ac14a096c929f5dc4fd)
 - Genre distribution in 1990s movies:
-
-
-![ALT Text](Screenshot of Guest Stars in The Office.png)
-
-
+![image](https://github.com/Kashish1418/Investigating-Netflix-Movies-and-Guest-Stars-in-the-Office/commit/9057c7f70df8518ddcce7ac14a096c929f5dc4fd)
 
 ## 📌 Highlights
 - Deep Exploratory Data Analysis (EDA)
