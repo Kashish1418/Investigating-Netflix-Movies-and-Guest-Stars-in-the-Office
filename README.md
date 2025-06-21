@@ -27,8 +27,12 @@ As part of a fictional production company interested in nostalgic content, I ana
 
 ## 🖼️ Visualizations & Insights
 Here are some key visualizations from the project that helped drive insights:
-Guest stars in the Office: 
+- Guest stars in the Office: 
 ![image](https://github.com/Kashish1418/Investigating-Netflix-Movies-and-Guest-Stars-in-the-Office/commit/9057c7f70df8518ddcce7ac14a096c929f5dc4fd)
+- Distribution Movies released in the 1990s:
+![image](https://github.com/Kashish1418/Investigating-Netflix-Movies-and-Guest-Stars-in-the-Office/commit/9057c7f70df8518ddcce7ac14a096c929f5dc4fd)
+- Genre distribution in 1990s movies:
+
 
 ![ALT Text](Screenshot of Guest Stars in The Office.png)
 
